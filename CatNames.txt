@@ -1,3 +1,4 @@
-MemberName, accessLevel, userCode 
-Ombudsman, 4, 007
-Group, 0, 0
+ accessLevel userCode MemberName,email,phone,phyAddrs,dob
+4FFOmbudsman,themail.com,319-555-8888,401 Main St.,2-6-1956
+0AAGroup, , , ,
+
