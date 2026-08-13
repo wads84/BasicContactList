@@ -1,4 +1,3 @@
- accessLevel userCode MemberName,email,phone,phyAddrs,dob
 4FFOmbudsman,themail.com,319-555-8888,401 Main St.,2-6-1956
 0AAGroup, , , ,
 
