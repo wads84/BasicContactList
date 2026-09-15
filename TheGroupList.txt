@@ -1,2 +1,3 @@
 0,Ombudsman
-1,LifeCafe
+1,Vitality Exchange
+2,TheGeneral News
