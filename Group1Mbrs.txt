@@ -6,4 +6,3 @@
 1,Sep 17 2026 11:58:18,Walter Cronkite, , ,73,Vitality Exchange, 
 1,Sep 17 2026 12:11:45,Buggsy Malone, , ,74,Vitality Exchange, 
 1,Sep 17 2026 12:30:54,Gaad Forever, , ,65,Vitality Exchange, 
-1,Sep 17 2026 12:40:16,Gaad Forever, , ,65,Vitality Exchange, 
