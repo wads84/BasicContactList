@@ -3,3 +3,4 @@
 1,Sep 15 2026 14:45:04,Justin Simpleton,email,phone,2,Vitality Exchange,phyAddress
 1,Sep 17 2026 09:20:54,Bob Villa, , ,70,Vitality Exchange, 
 1,Sep 17 2026 11:07:35,Jack TheRipper, , ,72,Vitality Exchange, 
+1,Sep 17 2026 11:58:18,Walter Cronkite, , ,73,Vitality Exchange, 
