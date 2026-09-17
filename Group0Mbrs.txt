@@ -5,3 +5,4 @@
 1,Sep 17 2026 09:36:18,Lena Horn, , ,71,, 
 1,Sep 17 2026 11:07:11,Jack TheRipper, , ,72,, 
 1,Sep 17 2026 11:54:46,Walter Cronkite, , ,73,, 
+1,Sep 17 2026 12:10:37,Buggsy Malone, , ,74,, 
