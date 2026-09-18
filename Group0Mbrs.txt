@@ -11,3 +11,4 @@
 1,Sep 17 2026 16:27:37,Bill Clinton, , ,76,Ombudsman, 
 1,Sep 17 2026 17:03:38,Tom Clancey, , ,77,, 
 1,Sep 17 2026 18:44:06,Graham Bell, , ,78,, 
+1,Sep 17 2026 20:05:36,Sandy Duncan, , ,85,, 
