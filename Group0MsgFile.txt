@@ -30,3 +30,4 @@
 29,0,Sep 20 2026 08:19:00,1,Buggsy Malone,Ombudsman,This is a test of message saving with the reference msg. 20Sep26 8:18
 30,25,Sep 20 2026 09:16:00,1,Buggsy Malone,Justin Simpleton,Better than Hagen Daz?
 31,0,Sep 20 2026 09:22:08,1,Buggsy Malone,Lena Horn,I want Pineapple and mushroom!
+32,0,Sep 20 2026 09:35:00,1,Buggsy Malone,selection,Outgoing Message
