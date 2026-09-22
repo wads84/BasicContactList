@@ -1,5 +1,4 @@
-0.0.6,0,Sep 22 2026 08:06:40,tbUserName,Sep 22 2026 08:14:31,2,1,0,0,0,0
-s,tbNbrOfGroups,tbUploadTime,tbDnldTime,tbSortTime
+0.0.6,0,Sep 22 2026 08:06:40,tbUserName,Sep 22 2026 08:15:47,2,1,0,0,0,0
 0.0.0.0,3,Aug 25 2026 15:10:59,tbUsrName,Aug 25 2026 15:10:59,tbNbrOfVisits,tbNbrOfGroups,tbUploadTime,tbDnldTime,tbSortTime
 0.0.0.0,4,Aug 25 2026 15:25:41,tbUsrName,Aug 25 2026 15:25:41,tbNbrOfVisits,3,tbUploadTime,tbDnldTime,tbSortTime
 0.0.0.0,5,Aug 28 2026 6:34:45,tbUsrName,Aug 28 2026 6:34:45,tbNbrOfVisits,4,tbUploadTime,tbDnldTime,tbSortTime
